@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 
-//!!CHANGE PORT TO FIND SERVER GOING TO USE for next project!!
+//!!CHANGE PORT TO FIND SERVER GOING TO USE for next project each time!!
 const PORT = process.env.PORT || 3001;
 
 const app = express();
